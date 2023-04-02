@@ -42,8 +42,8 @@ export default function HomeSearch() {
             <BsFillMicFill className="text-lg" />
        </form> 
 
-       <div className="flex 
-       flex-col space-y-2
+       <div className="flex items-center
+       flex-col space-y-2 
        sm:space-y-0 sm:space-x-4
        justify-center sm:flex-row
        mt-8">
